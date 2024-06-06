@@ -1,1 +1,1 @@
-The repository contains implementations of fundamental sorting algorithms.
+The repository contains implementations of fundamental algorithms.
